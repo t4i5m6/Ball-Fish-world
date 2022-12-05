@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hello</title>
+    <script src="js/jquery-3.6.0.min.js"></script>
+    <script src="js/view.js"></script>
+</head>
+<body>
+
+    <div style="position:fixed; top:3em; left:0em;">
+        <label for="actions">Action:</label>
+        <select name="actions" id="actions">
+            <option value="makeBall">Make Ball</option>
+            <option value="makeFish">Make Fish</option>
+            <option value="switch">Switch Behavior</option>
+            <option value="remove">Remove objects</option>
+            <option value="clear">Clear</option>
+        </select>
+        <label for="behaviors">Behavior:</label>
+        <select name="behaviors" id="behaviors">
+            <option value="horizontal">Horizontal</option>
+            <option value="circle">Circle</option>
+            <option value="teleport">Teleport</option>
+            <option value="square">Square</option>
+            <option value="transform">Transform</option>
+            <option value="stopAndGo">Stop-and-go</option>
+            <option value="acceleration">Acceleration</option>
+            <option value="rectangle">Rectangle</option>
+            <option value="triangle">Triangle</option>
+            <option value="outAndBack">Out And Back</option>
+        </select>
+        <label for="interactions">ball interaction:</label>
+        <select name="interactions" id="interactions">
+            <option value="changeDirection">Change Direction 1</option>
+            <option value="changeColor">Change Color 2</option>
+            <option value="changeLoc">Change Location 3</option>
+            <option value="eat">Eat portion 4</option>
+            <option value="spawn">Spawn 5</option>
+            <option value="changeBehavior">Change Behavior 6</option>
+            <option value="transformFish">TransformFish 7</option>
+            <option value="destroy">Destroy 8</option>
+            <option value="explosion">Explosion 9</option>
+            <option value="stop">Stop 10</option>
+
+        </select>
+        <label for="switch">Switch:</label>
+        <select name="switch" id="switch">
+            <option value="Switch">Switch</option>
+            <option value="NotSwitch">Not Switch</option>
+        </select>
+        <button id="btn-action">Action</button>
+        <canvas width="800" height="800" style="border: 1px solid #000000"></canvas>
+    </div>
+
+
+
+
+
+</body>
+</html>

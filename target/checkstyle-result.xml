@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="/Users/timcheng/Desktop/code/hw4-t4i5m6/src/main/java/edu/rice/comp504/util/RandUtil.java">
+</file>
+<file name="/Users/timcheng/Desktop/code/hw4-t4i5m6/src/main/java/edu/rice/comp504/adapter/DispatchAdapter.java">
+</file>
+<file name="/Users/timcheng/Desktop/code/hw4-t4i5m6/src/main/java/edu/rice/comp504/controller/BallWorldController.java">
+</file>
+<file name="/Users/timcheng/Desktop/code/hw4-t4i5m6/src/main/java/edu/rice/comp504/model/cmd/IPaintObjCmd.java">
+</file>
+<file name="/Users/timcheng/Desktop/code/hw4-t4i5m6/src/main/java/edu/rice/comp504/model/cmd/ICmdFac.java">
+</file>
+<file name="/Users/timcheng/Desktop/code/hw4-t4i5m6/src/main/java/edu/rice/comp504/model/cmd/SwitchStrCmd.java">
+</file>
+<file name="/Users/timcheng/Desktop/code/hw4-t4i5m6/src/main/java/edu/rice/comp504/model/cmd/UpdateStateCmd.java">
+</file>
+<file name="/Users/timcheng/Desktop/code/hw4-t4i5m6/src/main/java/edu/rice/comp504/model/paintobj/APaintObject.java">
+</file>
+<file name="/Users/timcheng/Desktop/code/hw4-t4i5m6/src/main/java/edu/rice/comp504/model/paintobj/NullObject.java">
+</file>
+<file name="/Users/timcheng/Desktop/code/hw4-t4i5m6/src/main/java/edu/rice/comp504/model/paintobj/Fish.java">
+</file>
+<file name="/Users/timcheng/Desktop/code/hw4-t4i5m6/src/main/java/edu/rice/comp504/model/paintobj/Ball.java">
+</file>
+<file name="/Users/timcheng/Desktop/code/hw4-t4i5m6/src/main/java/edu/rice/comp504/model/paintobj/IBallFac.java">
+</file>
+<file name="/Users/timcheng/Desktop/code/hw4-t4i5m6/src/main/java/edu/rice/comp504/model/BallWorldStore.java">
+</file>
+<file name="/Users/timcheng/Desktop/code/hw4-t4i5m6/src/main/java/edu/rice/comp504/model/strategy/behavior/NullStrategy.java">
+</file>
+<file name="/Users/timcheng/Desktop/code/hw4-t4i5m6/src/main/java/edu/rice/comp504/model/strategy/behavior/SquareStrategy.java">
+</file>
+<file name="/Users/timcheng/Desktop/code/hw4-t4i5m6/src/main/java/edu/rice/comp504/model/strategy/behavior/BehaviorStrategyFac.java">
+</file>
+<file name="/Users/timcheng/Desktop/code/hw4-t4i5m6/src/main/java/edu/rice/comp504/model/strategy/behavior/RectangleStrategy.java">
+</file>
+<file name="/Users/timcheng/Desktop/code/hw4-t4i5m6/src/main/java/edu/rice/comp504/model/strategy/behavior/TeleportStrategy.java">
+</file>
+<file name="/Users/timcheng/Desktop/code/hw4-t4i5m6/src/main/java/edu/rice/comp504/model/strategy/behavior/OutAndBackStrategy.java">
+</file>
+<file name="/Users/timcheng/Desktop/code/hw4-t4i5m6/src/main/java/edu/rice/comp504/model/strategy/behavior/StopAndGoStrategy.java">
+</file>
+<file name="/Users/timcheng/Desktop/code/hw4-t4i5m6/src/main/java/edu/rice/comp504/model/strategy/behavior/IUpdateStrategy.java">
+</file>
+<file name="/Users/timcheng/Desktop/code/hw4-t4i5m6/src/main/java/edu/rice/comp504/model/strategy/behavior/IStrategyFac.java">
+</file>
+<file name="/Users/timcheng/Desktop/code/hw4-t4i5m6/src/main/java/edu/rice/comp504/model/strategy/behavior/HorizontalStrategy.java">
+</file>
+<file name="/Users/timcheng/Desktop/code/hw4-t4i5m6/src/main/java/edu/rice/comp504/model/strategy/behavior/CircleStrategy.java">
+</file>
+<file name="/Users/timcheng/Desktop/code/hw4-t4i5m6/src/main/java/edu/rice/comp504/model/strategy/behavior/AccelerationStrategy.java">
+</file>
+<file name="/Users/timcheng/Desktop/code/hw4-t4i5m6/src/main/java/edu/rice/comp504/model/strategy/behavior/TriangleStrategy.java">
+</file>
+<file name="/Users/timcheng/Desktop/code/hw4-t4i5m6/src/main/java/edu/rice/comp504/model/strategy/behavior/TransformStrategy.java">
+</file>
+<file name="/Users/timcheng/Desktop/code/hw4-t4i5m6/src/main/java/edu/rice/comp504/model/strategy/interaction/IInteractionStrategy.java">
+</file>
+<file name="/Users/timcheng/Desktop/code/hw4-t4i5m6/src/main/java/edu/rice/comp504/model/strategy/interaction/ChangeBehaviorStrategy.java">
+</file>
+<file name="/Users/timcheng/Desktop/code/hw4-t4i5m6/src/main/java/edu/rice/comp504/model/strategy/interaction/ExplosionStrategy.java">
+</file>
+<file name="/Users/timcheng/Desktop/code/hw4-t4i5m6/src/main/java/edu/rice/comp504/model/strategy/interaction/ChangeColorStrategy.java">
+</file>
+<file name="/Users/timcheng/Desktop/code/hw4-t4i5m6/src/main/java/edu/rice/comp504/model/strategy/interaction/InteractionStrategyFac.java">
+</file>
+<file name="/Users/timcheng/Desktop/code/hw4-t4i5m6/src/main/java/edu/rice/comp504/model/strategy/interaction/IInteractionStrategyFac.java">
+</file>
+<file name="/Users/timcheng/Desktop/code/hw4-t4i5m6/src/main/java/edu/rice/comp504/model/strategy/interaction/ChangeLocStrategy.java">
+</file>
+<file name="/Users/timcheng/Desktop/code/hw4-t4i5m6/src/main/java/edu/rice/comp504/model/strategy/interaction/DestroyStrategy.java">
+</file>
+<file name="/Users/timcheng/Desktop/code/hw4-t4i5m6/src/main/java/edu/rice/comp504/model/strategy/interaction/TransformFishStrategy.java">
+</file>
+<file name="/Users/timcheng/Desktop/code/hw4-t4i5m6/src/main/java/edu/rice/comp504/model/strategy/interaction/EatStrategy.java">
+</file>
+<file name="/Users/timcheng/Desktop/code/hw4-t4i5m6/src/main/java/edu/rice/comp504/model/strategy/interaction/StopStrategy.java">
+</file>
+<file name="/Users/timcheng/Desktop/code/hw4-t4i5m6/src/main/java/edu/rice/comp504/model/strategy/interaction/ChangeDirectionStrategy.java">
+</file>
+<file name="/Users/timcheng/Desktop/code/hw4-t4i5m6/src/main/java/edu/rice/comp504/model/strategy/interaction/SpawnStrategy.java">
+</file>
+</checkstyle>
